@@ -10,6 +10,8 @@ Please cite as:
 
 This repo contains all Python scripts that produce the figures and tables in the paper.
 
+The data is available on the Open Science Framework [Link](https://osf.io/34rb2).
+
 To run the notebook, please install the required Python packages via pip:
 
 ```
