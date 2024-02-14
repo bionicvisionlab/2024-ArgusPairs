@@ -1,5 +1,4 @@
 [![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/bionicvisionlab/2024-ArgusPairs/blob/master/LICENSE)
-[![Data](https://img.shields.io/badge/data-osf.io-lightgrey.svg)](https://osf.io/34rb2/)
 [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2023.07.21.23292908-orange)](https://doi.org/10.1101/2023.07.21.23292908)
 
 # Axonal stimulation affects the linear summation of single-point perception in three Argus II users
