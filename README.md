@@ -10,7 +10,7 @@ Please cite as:
 
 This repo contains all Python scripts that produce the figures and tables in the paper.
 
-To run the notebook, please install the required Python package via pip:
+To run the notebook, please install the required Python packages via pip:
 
 ```
 pip install -r requirements.txt
