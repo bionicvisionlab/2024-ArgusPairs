@@ -9,3 +9,10 @@ Please cite as:
 > in three Argus II users. *medRxiv:2023.07.21.23292908v1*
 
 This repo contains all Python scripts that produce the figures and tables in the paper.
+
+To run the notebook, please install the required Python package via pip:
+
+```
+pip install -r requirements.txt
+pip install pulse2percept
+```
