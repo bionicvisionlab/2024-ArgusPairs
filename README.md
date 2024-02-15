@@ -16,5 +16,4 @@ To run the notebook, please install the required Python packages via pip:
 
 ```
 pip install -r requirements.txt
-pip install pulse2percept
 ```
